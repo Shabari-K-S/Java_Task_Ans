@@ -2,8 +2,10 @@
 
 In This Github Repository You can get the answer for all the task provided to you in the discussion class
 
-Please don't copy this code  with knowing the knowledge of the code
+In discussion class we discuss about java basic concept and some important topic related to interviews.
 
-We need a good developer not the cheaters
+This repository contains the answer of all the questions which are asked in the discussion class.
+
+Please don't copy this code  with knowing the knowledge of the code
 
 Thank You
