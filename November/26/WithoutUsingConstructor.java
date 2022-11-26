@@ -1,7 +1,7 @@
 class Add{
     int a,b;
-    void write(int a, int b){
-        this.a=a;
+    void write(int a, int b){     // Instead of using constructor 
+        this.a=a;                 // we use this keyword 
         this.b=b;
     }
     void display(Add A1){
