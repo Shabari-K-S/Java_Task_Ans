@@ -1,3 +1,7 @@
+// In this Code we found the answer for division and modules
+
+// without using division and modules opeator
+
 import java.util.Scanner;
 
 class WithoutUsingDivisionOperator{
