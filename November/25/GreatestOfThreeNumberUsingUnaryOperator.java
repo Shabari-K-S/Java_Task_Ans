@@ -66,7 +66,7 @@ public class GreatestOfThreeNumberUsingUnaryOperator {
     
 Try this :
 
-while(sum>0){
+while(sum!=0){
             if(a!=0){
                 a--;
                 sum--;
